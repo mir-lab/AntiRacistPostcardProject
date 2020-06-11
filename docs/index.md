@@ -1,4 +1,7 @@
-# The AntiRacist Postcard Project
+---
+title: The AntiRacist Postcard Project
+---
+# Welcome welcome!
 
 ## Coming soon to a home near you!
 
