@@ -1,4 +1,4 @@
-# Hello ~ Welcome to the AntiRacist Postcard Project!
+# The AntiRacist Postcard Project
 
 ## Coming soon to a home near you!
 
