@@ -1,6 +1,6 @@
 ---
 layout: default
-title: home page
+title: Anti-Racism Postcards
 ---
 # Hello & welcome 
 

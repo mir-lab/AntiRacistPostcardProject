@@ -1,6 +1,6 @@
 ---
 layout: content
-title: new page
+title: Resources
 ---
 # Page 1!!
 
