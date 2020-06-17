@@ -1,12 +1,12 @@
 ---
-layout: content
-title: new page
+layout: default
+title: home page
 ---
-# Page 1!!
+# Hello & welcome 
 
-## Am I working?
+## This is an anti-racism intervention art project.
 
-![](assets/imgs/card-2.jpg)
+![](assets/imgs/card-1.jpg)
 
 <!-- ---
 # Welcome welcome
