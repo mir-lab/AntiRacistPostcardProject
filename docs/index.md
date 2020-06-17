@@ -4,7 +4,7 @@ title: Anti-Racism Postcards
 ---
 # Hello & welcome 
 
-## This is an anti-racism intervention art project.
+## This is an anti-racism intervention art project.  
 
 ![](assets/imgs/card-1.jpg)
 
