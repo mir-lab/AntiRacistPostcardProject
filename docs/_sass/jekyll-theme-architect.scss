@@ -101,7 +101,7 @@ a.button {
   font-size: 30px;
   line-height: 1.2;
   color: #fff;
-  background: transparent url(../images/download-button.png) 0 0 no-repeat;
+  /*background: transparent url(../images/download-button.png) 0 0 no-repeat;*/
 }
 a.button small {
   display: inline-block;
@@ -109,8 +109,8 @@ a.button small {
 }
 header a.button {
   position: relative;
-  /*width: 150px;
-  height: 150px;*/
+  width: 150px;
+  height: 150px;
   top: 0;
   right: 0;
   background: transparent url(../images/mail-icon.png) 0 0 no-repeat;
