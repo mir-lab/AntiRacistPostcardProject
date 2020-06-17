@@ -107,18 +107,18 @@ a.button small {
   font-size: 11px;
 }
 header a.button {
-  position: absolute;
+  position: inside;
   top: 0;
   right: 0;
   background: transparent url(../images/mail-icon.png) 0 0 no-repeat;
 }
 aside a.button {
   display: block;
-  width: 138px;
+  width: 500px;
   padding-left: 64px;
   margin-bottom: 20px;
   font-size: 21px;
-  background: transparent url(../images/download-button.png) 0 0 no-repeat;
+  background: transparent url(../images/mail-icon.png) 0 0 no-repeat;
 }
 
 code, pre {
