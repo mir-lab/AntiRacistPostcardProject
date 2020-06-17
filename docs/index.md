@@ -1,5 +1,4 @@
----
-title: The AntiRacist Postcard Project
+
 ---
 # Welcome welcome
 
