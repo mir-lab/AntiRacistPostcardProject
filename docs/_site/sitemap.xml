@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/facts/about-the-author.html</loc>
-<lastmod>2016-04-04T00:00:00-07:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/resources/learning-resources.html</loc>
-<lastmod>2016-05-05T00:00:00-07:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/resources/text-formatting.html</loc>
+<loc>http://localhost:4000/documentation/text-formatting.html</loc>
 <lastmod>2016-09-09T00:00:00-07:00</lastmod>
 </url>
 <url>
@@ -17,8 +9,24 @@
 <lastmod>2016-10-10T00:00:00-07:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/documentation/welcome-to-millennial.html</loc>
-<lastmod>2017-01-01T00:00:00-08:00</lastmod>
+<loc>http://localhost:4000/resources/your-target.html</loc>
+<lastmod>2020-06-12T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/resources/white-supremacy.html</loc>
+<lastmod>2020-06-13T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/resources/defund-police.html</loc>
+<lastmod>2020-06-14T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/resources/say-their-names.html</loc>
+<lastmod>2020-06-15T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/resources/violence.html</loc>
+<lastmod>2020-06-16T00:00:00-07:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/pages/about.html</loc>

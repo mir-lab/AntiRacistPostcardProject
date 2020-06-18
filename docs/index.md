@@ -11,7 +11,7 @@ title: Welcome
 
 ### Each of the cards designed for this project tackle issues that are facing the world today, and in sending them to our friends, family, and loved ones, we are encouraging them to also be anti-racist. Our postcards playfully tackle issues of racism, implicit bias, anti-blackness, and white supremacy. We are your local anti-racist's and we stand with Black Lives Matter and all folks working toward a just society.
   
-## [Send an anti-racist postcard today!](https://forms.gle/92d2s5Pi1jtzbFJdA)
+## 💌 [Send an anti-racist postcard today!](https://forms.gle/92d2s5Pi1jtzbFJdA) 💌
 
 &nbsp;
 
