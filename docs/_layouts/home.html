@@ -5,13 +5,23 @@ title: Home
 
 {% for post in paginator.posts %}
 
+<div class="posts-wrapper">
+    
+
 <article>
+  <a href="https://lenpaul.github.io/Millennial/documentation/welcome-to-millennial.html">
+    <div class="featured-posts" style="background-image:url(https://lenpaul.github.io/Millennial/assets/img/cuba-1.jpg)">
+      <h2><span>Welcome to Millennial!</span></h2>
+    </div>
+  </a>
+</article>
+<!-- <article>
   <a href="{{ site.github.url }}{{ post.url }}">
     <div class="featured-posts" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}>
       <h2><span>{{ post.title }}</span></h2>
     </div>
   </a>
-</article>
+</article> -->
 
 {% endfor %}
 

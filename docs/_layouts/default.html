@@ -8,13 +8,23 @@
 <div class="container">
   {% include header.html %}
   <div class="posts-wrapper">
-    {{ content }}
-  </div>
-  {% include footer.html %}
-  <a href="{{ site.github.url }}{{ post.url }}">
-    <div class="featured-posts" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}>
+  	 {{ content }}
+
+  	<article>
+  <a href="https://forms.gle/3hSSUFHFLedwPngFA">
+    <div class="featured-posts" style="background-image:url({{ site.github.url }}/assets/img/card-1.jpg)">
+
+
+      <h2><span>Send an Anti-Racist Postcard</span></h2>
     </div>
   </a>
+	</article>
+  </div>
+  {% include footer.html %}
+ <!--  <a href="{{ site.github.url }}{{ post.url }}">
+    <div class="featured-posts" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}>
+    </div>
+  </a> -->
 </div>
 
 
