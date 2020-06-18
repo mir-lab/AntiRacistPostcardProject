@@ -7,7 +7,7 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
-# - {name: 'Interesting Facts', folder: 'pages', file: 'facts.html'}
+- {name: 'How it Works', folder: 'pages', file: 'about.html'}
 - {name: 'Learning Resources', folder: 'pages', file: 'resources.html'}
 # - {name: 'Sample Posts', folder: 'pages', file: 'sample-posts.html'}
 # - {name: 'Documentation', folder: 'pages', file: 'documentation.html'}
@@ -30,6 +30,6 @@ menu:
 
 # sharing_button_prompt: 'Feel free to share!'
 
-related_posts: 'You may also enjoy...'
+# related_posts: 'You may also enjoy...'
 
 # post_date_prefix: 'Written on'

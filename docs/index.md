@@ -9,9 +9,15 @@ title: Welcome
 
 ### This is an anti-racism intervention art project to encourage folks to be 💥 _anti-racist._ 💥
 
-### Each of the cards designed for this project tackle issues that are facing the world today, and in sending them to our friends, family, and loved ones, we are encouraging them to also be anti-racist. Our postcards playfully tackle issues of racism, implicit bias, anti-blackness, and white supremacy. We are your local anti-racist's and we stand with Black Lives Matter and all folks working toward a just society.
+### Our postcards playfully tackle issues of racism, implicit bias, anti-blackness, and white supremacy. Each of the postcards here tackle real issues and violence facing the world today — in sending them to our friends, family, and loved ones, we are encouraging them to also be actively anti-racist. 
+
+### 🖤 We are your local anti-racist's and we stand with Black Lives Matter and all folks working toward a just society.
+
+
+&nbsp;
   
-## 💌 [Send an anti-racist postcard today!](https://forms.gle/92d2s5Pi1jtzbFJdA) 💌
+## ✖️ [Learn how it works](https://forms.gle/92d2s5Pi1jtzbFJdA) 
+## ✖️ [Send an anti-racist postcard today!](https://forms.gle/92d2s5Pi1jtzbFJdA) 
 
 &nbsp;
 
