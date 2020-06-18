@@ -16,7 +16,7 @@ title: Welcome
 
 &nbsp;
   
-## ✖️ [Learn how it works](https://forms.gle/92d2s5Pi1jtzbFJdA) 
+## ✖️ [Learn how it works](https://antiracistpostcards.com/pages/about.html) 
 ## ✖️ [Send an anti-racist postcard today!](https://forms.gle/92d2s5Pi1jtzbFJdA) 
 
 &nbsp;
