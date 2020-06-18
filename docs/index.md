@@ -1,20 +1,11 @@
 ---
 layout: default
-title: Anti-Racism Postcards
+title: Welcome
 ---
-# Hello & welcome 
+<!-- # Hello & welcome  -->
+  
+## Welcome to our anti-racism intervention art project.  
 
-## This is an anti-racism intervention art project.  
+![](assets/img/card-1.jpg)
 
-![](assets/imgs/card-1.jpg)
-
-[click to go to page 1](/pages/page-1)
-
-<!-- ---
-# Welcome welcome
-
-## Coming soon to a home near you!
-
-![](assets/imgs/card-1.jpg)
-
-[click to go to page 1](/pages/page-1) -->
+<!-- [click to go to page 1](/pages/page-1) -->
