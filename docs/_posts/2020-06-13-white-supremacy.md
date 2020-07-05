@@ -6,11 +6,11 @@ tags: [resources, new]
 image: postcard-04.png
 ---
 
+## Resources Forthcoming 
+
 ## Summary
 
 ## Media
-
-<iframe width="600" height="340" src="url_here" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Groups
 
