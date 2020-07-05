@@ -12,7 +12,7 @@ image: postcard-03.png
 ### American Police
 Podcast: NPR’s Throughline [“American Police”]() episode 6/4/2020
 
-## Groups
+## Groupss
 ### Mapping Violence
 [Mapping Police Violence](https://mappingpoliceviolence.org/) has a lot of good data -- a caveat is that this is the same people as Campaign Zero and 8 Can’t Wait -- 8CW is a bad campaign because they poorly interpreted the data, but I think the actual data is still very helpful and informative
 
