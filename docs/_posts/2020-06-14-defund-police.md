@@ -10,7 +10,10 @@ image: postcard-03.png
 [Angela Davis](https://www.democracynow.org/2020/6/12/angela_davis_historic_moment) on defund the police & where do we go from here (5 part interview)
 
 ## Mapping Violence
-<iframe width=‘100%’ height=‘520’ frameborder=‘0’ src=‘https://samswey.carto.com/viz/e1005588-93d2-47b6-9a61-f4c0ed001163/embed_map’ allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<iframe width=‘100%’ height=‘520’ frameborder=‘0’ src=‘https://samswey.carto.com/viz/e1005588-93d2-47b6-9a61-f4c0ed001163/embed_map’ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>></iframe>
+
+<iframe width="600" height="340" src="https://www.youtube.com/embed/sb9_qGOa9Go" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 [Mapping Police Violence](https://mappingpoliceviolence.org/) has a lot of good data -- a caveat is that this is the same people as Campaign Zero and 8 Can’t Wait -- 8CW is a bad campaign because they poorly interpreted the data, but I think the actual data is still very helpful and informative
 
